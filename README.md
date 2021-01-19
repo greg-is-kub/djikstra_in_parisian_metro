@@ -13,6 +13,7 @@ It might contain superfluous cpp files that coud have been regrouped , i wanted 
 In order to run the program , run the following commands on the terminal from the main repertory.
 
 make
+
 RATPerdu data/s.csv data/c.csv STATION_DEPART STATIONS_ARRIVEE
 
 STATION_DEPART and STATION_ARRIVEE are station id found in data/s.csv
